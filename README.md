@@ -31,7 +31,7 @@ Something sometimes is nothing, and vice versa.
   * 偏好：日常系列，有好演员，偏爱日剧，曾喜欢港剧；
 * 书籍
   * 喜欢：[窗边的小豆豆](https://book.douban.com/subject/1007914/)、[吾輩は猫である](https://zh.m.wikipedia.org/zh-hans/%E6%88%91%E6%98%AF%E7%8C%AB)；
-  * 最近在看：[禅与乐](https://book.douban.com/subject/10456034/)；
+  * 最近在看：巴菲特和查理芒格的内部讲话；
   * 偏好：科普系列，描述世界的书籍；
 * 礼物
   * 喜欢：公仔、电子产品、有意思的小东西；
